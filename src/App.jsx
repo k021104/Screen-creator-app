@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 
-import ScreenSetup from './Pages/ScreenSetUp'
+import ScreenSetup from './Pages/ScreenSetup'
 import ScreenBuilder from './Pages/ScreenBuilder'
 import GenerateScreen from './Pages/GenerateScreen'
 
